@@ -31,5 +31,3 @@
   
 - [Insight 2]
   - Description: [Provide a brief insight related to career, employability, or general learning]
-aasdas
-asdas
