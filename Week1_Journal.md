@@ -37,7 +37,7 @@
   - I made a deliberate effort to integrate numerous CSS and HTML features into my website, including elements such as box styling, footers, bullet points, numbering, and centering... This approach allowed me to revisit and reinforce my understanding of a wide range of web development aspects.
   
 - **Journaling**
-  - I found it useful to put in quite a bit of time into the Journaling portion. I found it useful to actually 'verbalise' the somewhat non concious descions that I made through my completion of the practical. I also put extra time into Journaling so that I had a solid template for the following weeks 
+  - I found it useful to put in quite a bit of time into the Journaling portion. I found it useful to actually 'verbalise' the somewhat non concious descions that I made through my completion of the practical. I also put extra time into Journaling so that I had a solid template for the following weeks.
 
 ## Career/Employability/Learning Insights
 
@@ -45,4 +45,4 @@
   - In making the switch from SiteGround (which I was familiar with) to Microsoft Azure, I demonstrated a capacity for informed decision-making and adaptability, highlighting a crucial skill in the professional world.
 
 - **Self-Learning and Resourcefulness**
-  - The utilization of online platforms such as GitHub and YouTube demonstated commitment to self-directed learning. The decision to understand Microsoft Azure through a YouTube tutorial not only expanded my technical skill set but also showcased my resourcefulness in seeking out solutions independently.
+  - The utilisation of online platforms such as GitHub and YouTube demonstated commitment to self-directed learning. The decision to understand Microsoft Azure through a YouTube tutorial not only expanded my technical skill set but also showcased my resourcefulness in seeking out solutions independently.
