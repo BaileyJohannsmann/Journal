@@ -1,48 +1,46 @@
 # Week 2
 
 ## Weekly Review
-- This week I was required to make a very simple website for my brainstomed startup business 'Dream Sync'. This required me to review and relearn aspects of html and css. I then hosted my website with Microsoft Azure. 
+- This week I was required to use Joomla CMS to continue basic web development of my startup Dream Sync.
 
 ## Learning Activities & Resources
 
-- **Web Design + Review**
-  - Description: I was required to review previous html and css cource work as well as watch youtube foundational videos to re-learn various features that I had forgotten.
-  - Resources:
-    - [GitHub](https://github.com): Accessed archived project files from previous web design coursework.
-    - [YouTube]: I watched various tutorial content for HTML and CSS to reinforce foundational knowledge.
+- **Establishing Local Host**
+  - Description: I researched and trialed many local hosting methods and had quite alot of issues. I eventually used a program called XAMPP.
+    - [YouTube](https://www.youtube.com/watch?v=dqmw8xIVoyQ&t=315s&ab_channel=ZacsTech): This video was specifically helpful.
 
-- **Web Hosting + Platform Selection**
-  - Description: I selected a suitable web hosting platform, I opted for SiteGround originally; however, I had already used my free trial. I then instead chose Microsoft Azure once I looked a the provided resources page
-  - Resources:
-    - [SiteGround](https://www.siteground.com): Initial choice for web hosting, offering user-friendly features.
-    - [Microsoft Azure](https://azure.microsoft.com): Comprehensive exploration of Microsoft's cloud services, which aligned with project requirements.
-    - [YouTube](https://www.youtube.com/watch?v=iQN9jFqstt8&ab_channel=DanielOtto): I used this tutorial to learn how to publish my website to a web host using Microsoft Azure.
+- **Joomla Web Template Editing**
+  - Description: I eddited the template website on Joomla to match my Dream Sync product.
+    - [YouTube](https://www.youtube.com/watch?v=EZ861sCRTK4&ab_channel=EasyWebDesign): I found this youtube video the most useful for this task.
 
 - **Journaling**
-  - Description: I created a github repository and read through the provided Markdown documentation as well as the sample Journal examples.
-  - Resources:
-    - [GitHub Resources](https://github.com/CP3402/subject/wiki/Learning-Journals): I used this Learning Journal page to help me to review Markdown practices and view Journal examples.
+  - Description: I reviewed my last week Journal entry after a discussion of Journal expectations following external lecture.
 
 ## Estimated Hours
 
-- Web Design + Review: 2 hours
-- Web Hosting + Platform Selection: 0.5 hours
-- Journaling: 1.5 hours
-- Total: 4 hours
+- Establishing Local Host: 3.5 hours
+- Joomla Web Template Editing: 1 hour
+- Journaling: 0.75 hours
+- Total: 5.25 hours
 
 ## Content Insights
 
-- **HTML and CSS Refresher**
-  - The review of html and css foundations reminded me of the importance of designing a website for an intended market. Despite the website being very basic as the task asked, I still kept this in mind. I used black and white to project an aura of sophistication as the product is intended to be premium. 
-  - I made a deliberate effort to integrate numerous CSS and HTML features into my website, including elements such as box styling, footers, bullet points, numbering, and centering... This approach allowed me to revisit and reinforce my understanding of a wide range of web development aspects.
+- **Establishing Local Host**
+  - Despite the instructions stating that I could work directly on the live site online, I decided to establish a local host. In hindsight, I believe I should have waited until the following weeks when this will be covered further. I initially tried using Scotch Box and VirtualBox; however, I had issues with the Windows command prompt interface. Oracle VirtualBox indicated that I did establish a connection; however, I couldn't find how to establish usability. I then moved on and tried using software called XAMPP and found it much more intuitive. Although I managed to develop a Joomla website using a local host, there is one major issue which I still have. When it came time to submit the link for my Joomla website, I discovered that Lindsay wouldn't actually be able to view it as it's only viewable on my local host. I couldn't figure out how to address this issue prior to submission; however, now I understand why it was originally stated that I wasn't required to establish a local host this week. I submitted my link anyway and accompanied it with images so Lindsay can see I actually did what was required of me for this week's task.
+
+- **Joomla Web Template Editing**
+ - I spent too much time on establishing a local host, which was not even in the scope of this weeks practical requirements, that I didnt have enough time to create a polished website. In saying this, the task did state that it could be basic and I feel as though the startup concept is still obvious to the audience. 
+
+- **Additional thoughts** 
+ - This week's practical taught me that if I'm going to challenge myself by attempting to exceed the scope of the required task, I need to have better time management. In hindsight, I shouldn't have tried using a local host as I didn't give myself enough time, and this resulted in me having to provide images alongside my local host link so Lindsay could view my completion of the practical. Although I am disappointed, I do feel that I did meet the requirements of the practical and I will better manage my time moving forward.
   
 - **Journaling**
-  - I found it useful to put in quite a bit of time into the Journaling portion. I found it useful to actually 'verbalise' the somewhat non concious descions that I made through my completion of the practical. I also put extra time into Journaling so that I had a solid template for the following weeks.
+  - I believe my review of last weeks Journaling following Lindsay's discussussion in the lecture, contributed to this weeks being better and more genuine.
 
 ## Career/Employability/Learning Insights
 
-- **Adaptability and Decision-Making**
-  - In making the switch from SiteGround (which I was familiar with) to Microsoft Azure, I demonstrated a capacity for informed decision-making and adaptability, highlighting a crucial skill in the professional world.
+- **Adaptability**
+  - In making the switch from Scotch Box to XAMPP I displayed technical adaptability.
 
-- **Self-Learning and Resourcefulness**
-  - The utilisation of online platforms such as GitHub and YouTube demonstated commitment to self-directed learning. The decision to understand Microsoft Azure through a YouTube tutorial not only expanded my technical skill set but also showcased my resourcefulness in seeking out solutions independently.
+- **Self-Learning**
+  - My utilisation of websites, Youtube and various forums demonstrated my comitment to self learning.
