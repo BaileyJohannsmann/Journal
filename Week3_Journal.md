@@ -1,7 +1,7 @@
 # Week 3
 
 ## Weekly Review
-- This week I was required to use Joomla CMS to continue basic web development of my startup Dream Sync.
+- This week 
 
 ## Learning Activities & Resources
 
