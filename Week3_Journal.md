@@ -10,11 +10,11 @@
     - [Youtube](https://www.youtube.com/watch?v=ML7Zc35rIWk&t=435s&ab_channel=MicrosoftAzure): This video was a good tutorial of WordPress on Azure.
 
 - **Learning WordPress**
-  - Description: In this task I learnt, trialed and implemented various features in WordPress. I learnt these features by watching Lindsay's DEMO as well as multiple videos and other   online resources. 
+  - Description: In this task I learnt, trialed and implemented various features in WordPress. I learnt these features by watching Lindsay's DEMO as well as refering to multiple videos and other online resources. 
     - [Youtube + Learn JCU + various websites](https://www.youtube.com/watch?v=yGBpPAzra44&t=710s&ab_channel=CreateWPSite): This video was specifically helpful.
 
 - **Group interview task in online seminar**
-  - Description: In this task I listed and described attributes that I look for in a team member and reviewed what other class members seek.
+  - Description: In this task I listed and described attributes that I look for in a team member and reviewed what other class members seek. I also reflected on instances where I could demonstrate these attributes to future employees. 
     - [Google Document](https://docs.google.com/document/d/1VxR5L1C0E4kzTZeoEWteo9mRG5MvPO82UgzaVfm_QQk/edit?pli=1)
 
 - **Journaling**
@@ -24,19 +24,18 @@
 
 - Group interview task in online seminar: 0.25 hours
 - Learning WordPress: 1.5 hours
-- Website creation: 2 hours
 - Journaling: 0.75 hours
-- Total: 4.5 hours
+
+- Website creation + Journal review: 2 hours
+
+- Total: 4.5 hours (2.5 hours of learning + 2 hours of doing)
 
 ## Content Insights
 
-- **Establishing Local Host**
-  - 
+- **Learning WordPress**
+  - I explored the theme/template features available in WordPress, initially browsing through downloadable templates before ultimately electing to construct my site from scratch using the pre-installed site as a foundation. In doing this I acquired proficiency in tasks such as modifying headings, formatting text, integrating buttons with links, and incorporating images. Throughout this process I kept in mind the importance of aligning design choices with the preferences of the target audience. Given the premium nature of my product I reflected this in my deliberate use of a symmetrical layout and subdued color palette. Moreover, I carefully considered the intended purpose of the website when opting to make the donate button prominently red, strategically ensuring it served as a compelling call to action for users.
 
 ## Career/Employability/Learning Insights
 
 - **Interview**
-  -The group formation task proved to be enlightening, it provided me with the opportunity to articulate my expectations for team members while also prompting reflection on what qualities employees seek. It prompted me to contemplate instances where I could effectively show or demonstate to a prospective employee how I've exemplified the listed attributes.
-
-- **Self-Learning**
-  - My use of various online platforms and forums highlighted my commitment to self learning which is a valuable attribute and one which was discussed in this weeks group formation activity.
+  -The group formation task proved to be enlightening, it provided me with the opportunity to articulate my expectations for team members while also prompting reflection on what qualities employees seek. It prompted me to contemplate instances where I could effectively show or demonstate to a prospective employee how I've exemplified the listed attributes. This was a valuable activity that will help me prepare for job interviews in the future, thus improving my employability.
