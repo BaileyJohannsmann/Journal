@@ -33,7 +33,7 @@
 ## Content Insights
 
 - **Learning WordPress**
-  - I explored the theme/template features available in WordPress, initially browsing through downloadable templates before ultimately electing to construct my site from scratch using the pre-installed site as a foundation. In doing this I acquired proficiency in tasks such as modifying headings, formatting text, integrating buttons with links, and incorporating images. Throughout this process I kept in mind the importance of aligning design choices with the preferences of the target audience. Given the premium nature of my product I reflected this in my deliberate use of a symmetrical layout and subdued color palette. Moreover, I carefully considered the intended purpose of the website when opting to make the donate button prominently red, strategically ensuring it served as a compelling call to action for users.
+  - I explored the theme/template features available in WordPress, initially browsing through downloadable templates before ultimately electing to construct my site from scratch using the pre-installed site as a foundation. In doing this I acquired proficiency in tasks such as modifying headings, formatting text, integrating buttons with links, and incorporating images. Throughout this process I kept in mind the importance of aligning design choices with the preferences of the target audience. Given the premium nature of my product I reflected this in my deliberate use of a symmetrical layout and subdued color palette. Moreover, I carefully considered the intended purpose of the website when opting to make the donate button prominently orange, strategically ensuring it served as a compelling call to action for users.
 
 ## Career/Employability/Learning Insights
 
