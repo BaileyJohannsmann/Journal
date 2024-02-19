@@ -10,7 +10,7 @@
     - [Youtube](https://www.youtube.com/watch?v=ML7Zc35rIWk&t=435s&ab_channel=MicrosoftAzure): This video was a good tutorial of WordPress on Azure.
 
 - **Learning WordPress**
-  - Description: In this task I learnt, trialed and implemented various features in WordPress. I learnt these features by watching Lindsay's DEMO as well as refering to multiple videos and other online resources. 
+  - Description: In this task I learnt, trialed and implemented various features in WordPress. I learnt these features by watching Lindsay's demo as well as refering to multiple videos and other online resources. 
     - [Youtube + Learn JCU + various websites](https://www.youtube.com/watch?v=yGBpPAzra44&t=710s&ab_channel=CreateWPSite): This video was specifically helpful.
 
 - **Group interview task in online seminar**
