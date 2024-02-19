@@ -38,4 +38,4 @@
 ## Career/Employability/Learning Insights
 
 - **Interview**
-  -The group formation task proved to be enlightening, it provided me with the opportunity to articulate my expectations for team members while also prompting reflection on what qualities employees seek. It prompted me to contemplate instances where I could effectively show or demonstate to a prospective employee how I've exemplified the listed attributes. This was a valuable activity that will help me prepare for job interviews in the future, thus improving my employability.
+  - The group formation task proved to be enlightening, it provided me with the opportunity to articulate my expectations for team members while also prompting reflection on what qualities employees seek. It prompted me to contemplate instances where I could effectively show or demonstate to a prospective employee how I've exemplified the listed attributes. This was a valuable activity that will help me prepare for job interviews in the future, thus improving my employability.
