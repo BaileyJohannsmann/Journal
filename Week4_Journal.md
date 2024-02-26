@@ -1,7 +1,7 @@
 # Week 4
 
 ## Weekly Review
-- This week I had to create a simple WordPress site for my startup as well as participate in the group formation task.
+- This week I had to demonstrate a dynamic site with a database, running on a local network.
 
 ## Learning Activities & Resources
 
