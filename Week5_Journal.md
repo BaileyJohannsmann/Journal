@@ -38,4 +38,3 @@
   
 - **Self-Learning**
   - The utilisation of online platforms such as YouTube demonstated my commitment to self-directed learning, this is a trait that will help me in future employability and interview scenarios.
-
