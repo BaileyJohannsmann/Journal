@@ -1,49 +1,41 @@
-# Week 1
+# Week 5
 
 ## Weekly Review
-- This week I was required to make a very simple website for my brainstomed startup business 'Dream Sync'. This required me to review and relearn aspects of html and css. I then hosted my website with Microsoft Azure. 
+- This week I was required to create a child theme for a WordPress site and create a post on my LinkedIn profile that outlines one lesson I've learned to date in this subject.
 
 ## Learning Activities & Resources
 
-- **Web Design + Review**
-  - Description: I was required to review previous html and css cource work as well as watch youtube foundational videos to re-learn various features that I had forgotten.
+- **Learning about child themes**
+  - Description: I learnt more about child themes and customisation by watching youtube videos and going through the lecture notes.
   - Resources:
-    - [GitHub](https://github.com): Accessed archived project files from previous web design coursework.
-    - [YouTube]: I watched various tutorial content for HTML and CSS to reinforce foundational knowledge.
+    - [YouTube](https://www.youtube.com/watch?v=Wpc6FAsi7xI&ab_channel=FerdyKorpershoek): This video on child themes was particularly useful in understanding how to apply them in WordPress.
 
-- **Web Hosting + Platform Selection**
-  - Description: I selected a suitable web hosting platform, I opted for SiteGround originally; however, I had already used my free trial. I then instead chose Microsoft Azure once I looked a the provided resources page
-  - Resources:
-    - [SiteGround](https://www.siteground.com): Initial choice for web hosting, offering user-friendly features.
-    - [Microsoft Azure](https://azure.microsoft.com): Comprehensive exploration of Microsoft's cloud services, which aligned with project requirements.
-    - [YouTube](https://www.youtube.com/watch?v=iQN9jFqstt8&ab_channel=DanielOtto): I used this tutorial to learn how to publish my website to a web host using Microsoft Azure.
 
-- **Journaling**
-  - Description: I created a github repository and read through the provided Markdown documentation as well as the sample Journal examples.
+- **Learning about LinkedIn profile editing**
+  - Description: I learnt how to edit and personalise my LinkedIn profile.
   - Resources:
-    - [GitHub Resources](https://github.com/CP3402/subject/wiki/Learning-Journals): I used this Learning Journal page to help me to review Markdown practices and view Journal examples.
+    - [YouTube](https://www.youtube.com/watch?v=YKGXHZaHEdA&ab_channel=HowToLiveable): This video helped me learn how to edit my LinkedIn profile and customise it to make it more personal.
+
+- **Journaling review**
+  - Description: I read through my graded journal comments from last week and thought of emprovements.
 
 ## Estimated Hours
 
-- Web Design + Review: 2 hours
-- Web Hosting + Platform Selection: 0.5 hours
-- Journaling: 1.5 hours
-- Total: 4 hours
+- Learning about child themes: 1 hour
+- Learning about LinkedIn profile editing 0.5 hours
+- Journaling review: 0.5 hours
+- Total: 2 hours of learning 
 
 ## Content Insights
 
-- **HTML and CSS Refresher**
-  - The review of html and css foundations reminded me of the importance of designing a website for an intended market. Despite the website being very basic as the task asked, I still kept this in mind. I used black and white to project an aura of sophistication as the product is intended to be premium. 
-  - I made a deliberate effort to integrate numerous CSS and HTML features into my website, including elements such as box styling, footers, bullet points, numbering, and centering... This approach allowed me to revisit and reinforce my understanding of a wide range of web development aspects.
-  
-- **Journaling**
-  - I found it useful to put in quite a bit of time into the Journaling portion. I found it useful to actually 'verbalise' the somewhat non concious descions that I made through my completion of the practical. I also put extra time into Journaling so that I had a solid template for the following weeks.
+- **Child themes**
+  - I no longer had access to my Assignment WordPress site as I ran out of free student credits. I left the practical too late to recreate a WordPress site and then complete the practical. Instead of not doing the practical or doing a poor job I instead put time in to learn about child themes and I focussed more of my time to the creation of my LinkedIn profile and journal so that I could still achieve 4/8 for this weeks practical.
 
 ## Career/Employability/Learning Insights
 
-- **Adaptability and Decision-Making**
-  - In making the switch from SiteGround (which I was familiar with) to Microsoft Azure, I demonstrated a capacity for informed decision-making and adaptability, highlighting a crucial skill in the professional world.
-
-- **Self-Learning and Resourcefulness**
-  - The utilisation of online platforms such as GitHub and YouTube demonstated commitment to self-directed learning. The decision to understand Microsoft Azure through a YouTube tutorial not only expanded my technical skill set but also showcased my resourcefulness in seeking out solutions independently.
+- **LinkedIn profile creation**
+  - Creating my LinkedIn profile was a valuable task in relation to future employability as LinkedIn is a platform that employers look to when they are considering recruitment. I intend to add to this profile outside of this subject and use it when I apply for Engineering vacation work experience this year.
+  
+- **Self-Learning**
+  - The utilisation of online platforms such as YouTube demonstated my commitment to self-directed learning, this is a trait that will help me in future employability and interview scenarios.
 
