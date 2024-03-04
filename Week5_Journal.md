@@ -6,7 +6,7 @@
 ## Learning Activities & Resources
 
 - **Learning about child themes**
-  - Description: I learnt more about child themes and customisation by watching youtube videos and going through the lecture notes.
+  - Description: I learnt more about child themes and customisation by watching YouTube videos and going through the lecture notes.
   - Resources:
     - [YouTube](https://www.youtube.com/watch?v=Wpc6FAsi7xI&ab_channel=FerdyKorpershoek): This video on child themes was particularly useful in understanding how to apply them in WordPress.
 
@@ -17,7 +17,7 @@
     - [YouTube](https://www.youtube.com/watch?v=YKGXHZaHEdA&ab_channel=HowToLiveable): This video helped me learn how to edit my LinkedIn profile and customise it to make it more personal.
 
 - **Journaling review**
-  - Description: I read through my graded journal comments from last week and thought of emprovements.
+  - Description: I read through my graded journal comments from last week and thought of improvements.
 
 ## Estimated Hours
 
@@ -30,6 +30,9 @@
 
 - **Child themes**
   - I no longer had access to my Assignment WordPress site as I ran out of free student credits. I left the practical too late to recreate a WordPress site and then complete the practical. Instead of not doing the practical or doing a poor job I instead put time in to learn about child themes and I focussed more of my time to the creation of my LinkedIn profile and journal so that I could still achieve 4/8 for this weeks practical.
+  - 
+- **LinkedIn profile**
+  - Learning more about LinkedIn was very valuable, it is a new platform to me and it opened my eyes to future employment avenues. It gives me another professional tool to help seek job oportunities and vacational work experience, which is a requirement for my Engineering degree.
 
 ## Career/Employability/Learning Insights
 
