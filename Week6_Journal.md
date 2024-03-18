@@ -43,7 +43,7 @@
 ## Career/Employability/Learning Insights
 
 - **Teamwork and collaboration**
-- Understanding how to effectively communicate and negotiate in a group setting is a critical skill sought after by employers as it promotes team synergy and effectiveness towards a common goal.
+  - Understanding how to effectively communicate and negotiate in a group setting is a critical skill sought after by employers as it promotes team synergy and effectiveness towards a common goal.
 
 - **Technical proficiency using Trello, Slack and GitHub**
   - Proficiency with relevant industry tools can enhance employability and help with career readiness.
