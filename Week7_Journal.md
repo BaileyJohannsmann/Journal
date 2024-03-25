@@ -32,7 +32,7 @@
   - Setting up the PHP environment involved creating a local development environment to run PHP files. This included setting up a directory structure, configuring system environment variables, and running a PHP server. This process would allow for easy and risk free tesing of PHP code in the future before deploying it to a live site and as a result was useful and I am glad I put in the time to learn how to do it.
     
 - **PHP coding**
-  - During PHP coding, I learned how to utilise various PHP features such as Echo, Decisions, Repetition, Functions, and Includes. These features are essential for building dynamic and interactive web applications and enhances my understanding of the functionality and usability of PHP-based websites
+  - During PHP coding, I learned how to utilise various PHP features such as Echo, Decisions, Repetition, Functions, and Includes. These features are essential for building dynamic and interactive web applications and enhances my understanding of the functionality and usability of PHP-based websites.
 
 ## Career/Employability/Learning Insights
 
