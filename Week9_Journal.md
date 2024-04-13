@@ -9,7 +9,7 @@
   - I reviewed Lindsay's slides and demo video on LearnJCU.
    
 - **Review Lindsay's Sass bikeshop website code**
-  - I downloaded Lindsay's GitHub repository and learnt my looking through the conventions used.
+  - I downloaded Lindsay's GitHub repository and learnt by looking through the conventions used.
  
 - **Journaling**
   - Description: I reviewed my last weeks journal entry.
