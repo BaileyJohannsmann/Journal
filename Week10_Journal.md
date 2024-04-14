@@ -16,6 +16,24 @@
 - **Journaling**
   - Description: I reviewed my last week's journal entry.
 
+ ## Rehearsal notes
+
+ - **Rehearsal 1**
+   - We missed a slide
+   - We werent sure about what we were saying
+   - Recording software wasnt perfect
+
+ - **Rehearsal 2**
+   - We went over the time limit
+   - We were stumbling over our words
+   - Better comparted to the fist attempt
+  
+ - **Rehearsal 3**
+   - Was quite smooth
+   - We did leave out little parts where we will expand on in more detail in the actual presentation
+   - This was the rehersal that I linked above 
+
+
 ## Estimated Hours
 
 - Total time spent learning this week: 2 hours
