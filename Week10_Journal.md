@@ -7,7 +7,7 @@
 
 - **Finishing group project**
   - Description: This week, we learnt a variety of skills in relation to our assignment projects and completed a variety of touch-ups ready for final submission.
-    - [Final Site](https://u3aonline.com)
+    - [Final Site](http://u3aonline.com/)
     
 - **Presentation rehearsals**
   - Description: This week, we learnt how to create an informative and entertaining presentation and practiced 3 rehearsals.
