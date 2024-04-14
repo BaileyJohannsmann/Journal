@@ -26,7 +26,7 @@
  - **Rehearsal 2**
    - We went over the time limit
    - We were stumbling over our words
-   - Better comparted to the fist attempt
+   - Better compared to the fist attempt
   
  - **Rehearsal 3**
    - Was quite smooth
